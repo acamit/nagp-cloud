@@ -1,0 +1,14 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#userlist {
+  margin: 15px;
+}
+
+.card {
+  margin: 12px;
+}
